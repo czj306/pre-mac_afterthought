@@ -79,7 +79,7 @@ Scroll wheel down >> set to \k
 Scroll wheel down >> set to \j
 ```
 
-- 安装npm
+- 安装npm切换源
 ```bash
 brew install npm
 # 多源切换命令安装
@@ -90,7 +90,22 @@ nrm ls
 nrm use taobao
 ```
 
+- 安装pip切换源
+ ```bash
+ pip install pqi
+# 查看当前可用源
+pqi ls
+# 使用淘宝源
+pqi use aliyun
+ ```
+
 - 生成ssh key
 ```bash
+# 生成ssh钥匙
 ssh-keygen
+# github使用ssh key公钥
+xxx.pub
 ```
+
+
+
