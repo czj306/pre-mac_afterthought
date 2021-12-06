@@ -129,3 +129,9 @@ export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
 source /usr/local/Cellar/virtualenvwrapper/4.8.4_1/bin/virtualenvwrapper.sh
 ```
 
+- iterm 配置导出&迁移
+```bash
+iTerm -> Preferences -> Profiles -> Other Actions
+# Copy Profile as JSON （复制选中的当前配置）
+```
+
