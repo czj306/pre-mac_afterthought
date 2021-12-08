@@ -147,5 +147,8 @@ Preview JSDOC
 # 接口测试
 REST Client 
 
+# 数据库查看视图
+SQLite Viewer
+
 ```
 <!-- https://juejin.cn/post/6856695988518993927 -->
