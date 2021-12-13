@@ -90,6 +90,15 @@ nrm ls
 nrm use taobao
 ```
 
+- 安装yarn切换源
+```bash
+npm install -g yrm
+# 多源切换命令安装
+yrm ls
+# 使用淘宝源
+yrm use taobao
+```
+
 - 安装pip切换源
 ```bash
 pip install pqi
