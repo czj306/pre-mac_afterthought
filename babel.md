@@ -79,3 +79,5 @@ $ babel src -d lib
 $ babel src -d lib -s
 ```
 
+### 参考链接
+[Babel 入门教程](https://www.ruanyifeng.com/blog/2016/01/babel.html)
