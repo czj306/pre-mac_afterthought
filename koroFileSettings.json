@@ -1,0 +1,23 @@
+
+    "fileheader.configObj": {
+        // 可以在本文档搜索配置查看相关介绍
+        "designAddHead": true, // 默认关闭, 生成的图案注释是否附带头部注释
+        "headDesignName": "random" // 默认为随机图案 生成哪个注释图案
+    },
+    // 函数注释 
+    "fileheader.cursorMode": {
+        "name": "",
+        "test": "test font",
+        "msg": "",
+        "param": "",
+        "return": "",
+    },
+    // 头部注释
+    "fileheader.customMade": {
+        "Description": "",
+        "version": "",
+        "Author": "Miracle_Sir",
+        "Date": "Do not edit",
+        "LastEditors": "Miracle_Sir",
+        "LastEditTime": "Do not edit",
+    }
